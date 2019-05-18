@@ -4,7 +4,7 @@ java implementations of various data structures and algorithms
 2) tournament algorithm for finding minimum
 3) selection sort
 4) insertion sort
-5) quick sort with partition function
+5) quick sort 
 6) ...
 
 //Utwor powstal w wyniku realizowania procesu edukacyjnego w PJATK// 
